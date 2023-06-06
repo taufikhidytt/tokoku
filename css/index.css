@@ -1,0 +1,34 @@
+body{
+  text-align: center;
+  font-family: cursive;
+  background-color: #508ce6;
+}
+table{
+  background-color: #000000;
+  color: #ffffff;
+  font-family: cursive;
+}
+a:hover{
+  color: #ffffff;
+}
+form input{
+  padding: 10px;
+  width: 250px;
+  font-family: cursive;
+  font-size: 15px;
+  border: 2px solid #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  border-radius: 5px;
+}
+button{
+  padding: 13px;
+  width: 130px;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 15px;
+  border: 2px solid #089c03;
+  color: #089c03;
+  background: #ffffff;
+  border-radius: 10px;
+}
